@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alok Kumar Singh
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MERN Stack and React Native
 - 📫 Email Id : alok03359@gmail.com
 <!--- 💞️ I’m looking to collaborate on ...-->
 <!---
